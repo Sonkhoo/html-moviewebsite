@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(222, 226, 245);
+}
+h1[style="color: rgb(54, 11, 11);"]{
+    text-align: center;
+}
+h1[ style="color: brown;"]{
+    text-align: center;
+}
+.centerabout{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-style: italic;
+}
+.centered-link {
+    text-align: center;
+  }
+  
+.centered-link-text {
+    color: #2c0a3a; /* Set link color as needed */
+}
+h2{
+    text-align: center;
+}
